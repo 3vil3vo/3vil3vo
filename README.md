@@ -11,7 +11,7 @@ Here's all you need to know: I'm a developer who primarily works on personal pro
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discordapp.com/users/717372668336144408" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Discord" height="30" width="40" /></a>
-<a href="https://t.me/iamevou" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=lUktdBVdL4Kb&format=png&color=18ACFF" alt="Telegram" height="30" width="40" /></a>
+<a href="https://t.me/iamevou" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/741/142/non_2x/telegram-logo-icon-social-media-icon-free-png.png" alt="Telegram" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notyet&label=Mysterious%20count&color=0e75b6&style=flat" alt="visitCount" /> </p>
