@@ -33,7 +33,7 @@ Here's all you need to know: I'm a developer who primarily works on personal pro
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Recent Projects:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=cs,qt,discordjs,java"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=cpp,cs,nextjs,discordjs"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
