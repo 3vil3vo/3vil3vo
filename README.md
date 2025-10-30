@@ -20,15 +20,20 @@ I'm a passionate developer who loves building personal projects, exploring new t
 
 ---
 <h2 align="left">🚀 Featured Project: GreenLuma-Manager</h2>
-<p>
-    <a href="https://github.com/3vil3vo/GreenLuma-Manager" target="_blank">
-        <img src="https://raw.githubusercontent.com/3vil3vo/GreenLuma-Manager/main/icon.ico" alt="GreenLuma Manager" height="40" style="vertical-align:middle; margin-right:10px;"/>
-        <b>GreenLuma-Manager</b>
-    </a>
-    <br/>
-    <i>Steam AppList manager with a modern UI, profile support, and advanced automation for GreenLuma users.<br/>
-    Built with FastAPI, vanilla JS, and PyInstaller for a seamless Windows experience.</i>
-</p>
+<table>
+    <tr>
+        <td style="vertical-align: middle; padding-right: 12px;">
+            <a href="https://github.com/3vil3vo/GreenLuma-Manager" target="_blank">
+                <img src="https://raw.githubusercontent.com/3vil3vo/GreenLuma-Manager/main/icon.ico" alt="GreenLuma Manager" height="48"/>
+            </a>
+        </td>
+        <td style="vertical-align: middle;">
+            <a href="https://github.com/3vil3vo/GreenLuma-Manager" target="_blank"><b>GreenLuma-Manager</b></a><br/>
+            <i>Steam AppList manager with a modern UI, profile support, and advanced automation for GreenLuma users.<br/>
+            Built with FastAPI, vanilla JS, and PyInstaller for a seamless Windows experience.</i>
+        </td>
+    </tr>
+</table>
 
 ---
 <h3 align="left">Languages and Tools:</h3>
