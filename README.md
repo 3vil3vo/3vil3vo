@@ -30,7 +30,7 @@ I'm a passionate developer who loves building personal projects, exploring new t
         <td style="vertical-align: middle;">
             <a href="https://github.com/3vil3vo/GreenLuma-Manager" target="_blank"><b>GreenLuma-Manager</b></a><br/>
             <i>Steam AppList manager with a modern UI, profile support, and advanced automation for GreenLuma users.<br/>
-            Built with C# .NET 8.0 for a seamless Windows 10 and 11 experience.</i>
+            Built with C# .NET 10.0 for a seamless Windows 10 and 11 experience.</i>
         </td>
     </tr>
 </table>
